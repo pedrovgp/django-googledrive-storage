@@ -1,1 +1,1 @@
-default_app_config = 'gdstorage.apps.GoogleDriveStorageConfig'
+default_app_config = "gdstorage.apps.GoogleDriveStorageConfig"
